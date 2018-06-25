@@ -1,0 +1,526 @@
+Ce fichier est un fichier de contenu, on entoure les contenus par des balises 'debut' et 'fin' entoru�es de crochets
+le lien entre le nom du contenu et le contenu se fait avec la fleche
+
+! Attention ! ne pas utiliser de crochet pour autre chose que pour les balises
+cela corrompt la lecture par regex du contenu de ce fichier
+
+! Attention ! ne pas destructurer la premiere ligne (avec la balise debut), qui d�finit la valeur de la variable
+
+
+[debut]intro=>
+            Introduction
+[fin]
+
+
+
+[debut]colonne1=> <h2>Vous ne connaissez pas la Band'a Joe ?</h2>
+      <p>Faites un tour sur notre <a href="http://www.bandajoe.com/?page=accueil_presentation#D_contenu">page de présentation</a> pour découvrir notre fanfare étudiante joyeuse et festive!
+<br/>
+<br/>
+<br/>
+
+
+<h2> Cocktail BVA (26/09/2017)</h2>
+<p>
+C'est la rentrée pour nos joyeux Joes ! Et ils ont rattaqué illico, en animant une soirée cocktail à terme Feria pour la société BVA au parc de la Villette. Un cadre fort sympathique, de la nourriture de grande qualité, et un public charmé ont réjouit notre fanfare étudiante. Le cru 2017-2018 s'annonce fort !
+<br/>
+<br/>
+
+
+<h2> Fiesta Peña (23/06/2017)</h2>
+<p>
+Nos joyeux fanfarons ont été reçus merveilleusement à l'occasion de l'édition 2017 de FIesta Peña à Laudun L'Ardoise. Un soleil torride, une ambiance à la hauteur du climat, un accueil absolument royal, et pleins de collègues des fanfares La Cacophonie et La Peña du Midi ! Il n'en fallait pas plus pour combler notre fanfare étudiante de bonheur.
+<br/>
+<br/>
+
+
+<h2> Feria de Vic-Fezensac (03/06/2017)</h2>
+<p>
+Notre fanfare étudiante a été invité à la Feria de Pentecôte organisée par Vic-Fezensac, afin d'animer le week-ends avec de nombreuses autres fanfares. Un public nombreux, une organisation super sympa, malgré un soleil pas toujours présent ce fut un très bon week-end pour tous nos fanfarons ! 
+<br/>
+<br/>
+
+
+<h2> Festival MRN (25/05/2017)</h2>
+<p>
+Pour le festival MRN organisé à l'université Paris Dauphine, notre fanfare festive a bien sûr assuré un set ! Un super accueil, de la bonne musique et une heureuse soirée pour nos Joes !
+<br/>
+<br/>
+
+
+<h2> Repas Bayonnais ESSEC (24/05/2017)</h2>
+<p>
+Notre joyeuse fanfare a assuré l'animation musicale du repas Bayonnais organisé par l'organisation Sea, Essex and Sun ! Une grande cordialité, un super accueil, et une très bonne soirée pour nos festifs fanfarons !
+<br/>
+<br/>
+
+
+<h2> Stade Jean Bouin (19/05/2017)</h2>
+<p>
+A l'occasion du match Stade Français - Cardiff, notre fanfare étudiante a mis l'ambiance dans les gradins et pour l'après-match ! Des supporters motivés, un beau match, et un bon set dans le carré VIP pour l'après-match !
+<br/>
+<br/>
+
+
+<h2> Milhaud en fête (14/05/2017)</h2>
+<p>
+Pour fêter l'arrivée prochaine de l'été, notre joyeuse fanfare étudiante a animé le vide-grenier organisé par Milhaud en fête, dans le 19ème arrondissement. Des enfants tout sourires, des parents heureux, un soleil radieux, il n'en fallait pas plus pour nos fanfarons ravis !
+<br/>
+<br/>
+
+
+<h2> Vincelaise (09/04/17)</h2>
+<p>
+Nous nous sommes rendus dans la charmante commune de Voinsles, afin d'animer la 3ème édition de la cours la Vincelaise. Un soleil radieux, des gens heureux, de la bonne musique, un super moment festif que notre fanfare étudiante a vécu. Un gros merci à la municipalité pour son acceuil !
+<br/>
+<br/>
+
+
+<h2>FUPS (31/03/17)</h2>
+<p>
+A l'occasion du Festival Universitaire Paris Saclay, nos joyeux fanfarons ont bien entendu répondu présent ! Avec de nombreuses autres fanfares étudiantes, la fête a résonné au son des cuivres, en "battle" ou à l'unisson ! Un excellent moment !
+<br/>
+<br/>
+
+
+<h2>Night and Day (18/02/17)</h2>
+<p>
+Qui a dit que la Band'a Joe n'était pas sportive ? Notre joyeuse fanfare a animé le parcours du Night and Day sur le plateau de Saclay ce week-end. Course, vélo et trompettes ont résonné de concert pour un moment inoubliable !
+<br/>
+<br/>
+
+<h2>Manche à Tours (11/02/17)</h2>
+<p>
+Pour un inoubliable week-end de cohésion, notre fanfare étudiante a enflammé les rues de Tours ce week-end ! Un public généreux et un très bon moment pour nos joyeux drilles !
+<br/>
+<br/>
+
+<h2>Match de Rugby du Stade Français (02/10/16)</h2>
+<p>
+Pour la rencontre opposant le Stade Français à La Rochelle, notre fanfare festive a répondu présente au Stade Jean Bouin pour assurer l’ambiance ! Merci encore une fois aux supporters, toujours réceptifs devant le jeu endiablé de La Band’à Joe !
+<br/>
+<br/>
+
+<h2>Inauguration à Jouy-en-Jossas (01/10/16)</h2>
+<p>
+La Mairie de Jouy-en-Josas a fait appel à nos joyeux services afin d’inaugurer comme il se fallait l’ouverture de leur nouvelle rue piétonne ! Merci beaucoup pour avoir pensé à nous, et merci encore pour le magnifique buffet que vous avez mis à notre disposition !
+<br/>
+<br/>
+
+
+<h2>Soirée Fanfare sur les Quais (23/09/16)</h2>
+<p>
+La Band'a Joe, Les Plaies Mobiles et les Waza Beats  se sont unis pour vous proposer une soirée dantesque, fantastique, spectaculaire, incroyable, démente, et même... dangeureuse ! Les trombones suicides ont plu dans une explosion de joie musicale lors de cette soirée organisée par notre fanfare étudiante, mettant le feux aux quais de Seine! Merci à notre public, toujours aussi nombreux, d'avoir répondu à l'appel et d'avoir partagé cette folle soirée avec nous!
+<br/>
+<br/>
+
+<h2>10 ans de la Cacophonie (10/09/16)</h2>
+<p>
+La Band’à Joe était cordialement invitée par ses amis de toujours pour fêter en grande pompe leur dixième anniversaire ! Pendant un week-end à Lyon, notre fanfare a rayonné de joie et de bonne humeur pour célébrer comme il se doit cet événement de la Cacophonie ! On les remercie très fort pour cette invitation et ces deux jours de folie qu’ils nous ont offert ! 
+<br/>
+<br/> 
+
+<h2>Manche de rentrée (03/09/16)</h2>
+<p>
+Comme à son habitude, la Band’à Joe était sur le parvis de l’Opéra Garnier pour sa manche de rentrée. Là, nos jaunes fanfarons ont su redonner des couleurs à l’atmosphère grisonnante de fin d’été en rayonnant joie et bonne humeur ! La musique des trompettes transporte toujours les foules, et c’est bien devant ce temple de la musique que La Band’à Joe sait le mieux communiquer son énergie, son dynamisme, son insouciance et ses sourires !
+<br/>
+<br/> 
+
+<h2>Band'à Ch'Nord (30/08/16)</h2>
+<p>
+Pour son traditionnel Band’à Ch’Nord, notre entraînante fanfare a choisi, pour l’édition 2016, de se rendre à Amsterdam et Bruxelles. Pour ce premier tour hors de France de la nouvelle génération de Joes, ce fut une excursion placée sous le signe de la joyeuse découverte ! Un public étranger toujours aussi dynamique et débordant d’envie était de la rencontre, le son rayonnant la bonne humeur émis par la Band’à Joe réussi toujours à transporter les foules en dehors de l’hexagone ! Une observation qui ne peut qu’augurer du bon pour le Band’à l’Est à venir ! Merci à notre public bruxellois et amsterdamois d’avoir été de la partie !
+<br/>
+<br/>
+
+<h2>Fiesta Pena (02/07/16)</h2>
+<p>
+La Band’à Joe était invitée à la Fiesta Pena afin de mettre le feu aux foules déchaînée du festival. Notre joyeuse fanfare constituée pour l’occasion d’un effectif multigénérationnel a ainsi passé un week-end de pure folie au contact des festivaliers sudistes ! Merci beaucoup à l’organisation pour l’invitation, toujours au top après toutes ces années, et qui gardera une grande place dans nos cœurs !
+
+<br/>
+<br/>
+
+<h2>ZGUEGOTRON 2k16 (22/06/16)</h2>
+<p>
+Après 10 jours de voyage, votre fanfare festive préférée vient de terminer son tour de France ! Rennes, Bordeaux, Toulouse, Montpellier, Nîmes, Lyon, autant de villes qui se sont enflammées au passage des 20 Joes déchaînés ! Public de folie, manches Zgueg, supporters bourrés d’enthousiasme et bien sûr, chorégraphies énergiques et bonne humeur musicale étaient de la partie !!
+Merci au public d’avoir répondu présent aux quatre coins de la France, merci pour avoir été si réceptif et avoir apprécié nos spectacles !
+
+<br/>
+<br/>
+
+<h2>Remerciement musical pour SYOS (21/06/16)</h2>
+<p>
+Pour le retour de son Zguegotron, la Band’a Joe a remercié en musique l’entreprise SYOS - Shape Your Own Sound qui nous a offert des becs de saxophones imprimés en 3D ! Ceux-ci nous ont bien été utiles durant nos multiples manches !
+<br/>
+<br/>
+
+
+<h2>Concert au Ninkasi de Lyon (18/06/16)</h2>
+<p>
+La Band’à Joe a joué ses morceaux les plus mélodiques et joyeux au Ninkasi de Lyon afin d’accompagner les clients durant leurs repas !  Merci au public d’avoir été aussi réceptif !
+<br/>
+<br/>
+
+<h2>Concert au Gazoline (11/06/16)</h2>
+<p>
+La Band’à Joe a joué dans le Bar « Le Gazoline » à Rennes afin de mettre l’ambiance a un public déjanté ! Notre fanfare joyeuse a su relever, avec brio, le défi d'une scène trop petite pour accueillir tous ses Joes!
+<br/>
+<br/>
+
+<h2> Retraite aux flambeaux de St Vrain (10/06/16)</h2>
+<p>
+La Band'à Joe était à Saint Vrain le 10 juin pour accompagner la retraite aux flambeaux suivie d'une belle cérémonie haute en lumières, merci pour l'invitation !
+<br/>
+<br/>
+
+<h2> Soirée à l'école d'architecture de Versailles (27/05/16)</h2>
+<p>
+Une soirée haute en couleur aux sonorités fanfaronnes, une ambiance de folie, un public déchaîné on ne peut plus réceptif, un lieu grandiose et un accueil chaleureux : voilà ce que La Grande Mousse nous a offert en invitant la Band’à Joe à leur soirée. Merci beaucoup pour ce moment de zgueg monstrueux!
+<br/>
+<br/>
+
+<h2> Concert de retour du Band'àTour au Peña Festayre (20/05/16)</h2>
+<p>
+Vienne, Budapest, Cracovie, Pragues,... 4 villes où la Band'à Joe a pendant deux semaines enflammé les rues, les bars, les festivals hippies, les boîtes de nuit, les soirées swing, et fait danser le public sur ses rythmes endiablés!
+Forte de l'expérience de ce Band'à Tour, la génération P2017 de la Band'à Joe vous a offert un concert de retour au Peña Festayre dont vous vous souviendrez!
+<br/>
+<br/>
+
+<h2> Finale de la Coupe d'Europe de Rugby (13/05/16)</h2>
+<p>
+La Band’à Joe a passé un week-end de folie à Lyon pour les phases finales de la coupe d’Europe de Rugby !!
+Nous avons joué tant sur le terrain que dans les gradins pour la finale de la Challenge Cup opposant Montpellier à Harlequins, accompagnant même les gagnants pour leur tour d’honneur à l’issue du match ! Nous avons également eu le plaisir d’enflammer le stade de notre entrain pour la finale de la Champions Cup qui a vu s’opposer le Racing92 à Saracens !
+Ce week-end a aussi été l’occasion pour les jaunes fanfarons que nous sommes de réveiller la bonne humeur du centre Lyonnais au travers de manches déjantées !
+Un très grand merci à l’équipe organisatrice de ces finales pour nous avoir invité et guidé pendant l’événement !
+<br/>
+<br/>
+
+<h2> Dîner Bayonnais à l'ESSEC (02/05/16)</h2>
+<p>
+Notre fanfare déchaînée était invitée à un dîner Bayonnais afin de garantir la bonne humeur de celui-ci! L'ambiance était au rendez-vous, merci à l’association Sea Essec and Sun de nous avoir choisi!
+<br/>
+<br/>
+
+<h2> Music to Rock the Nation (30/04/16)</h2>
+<p>
+La Band’à Joe a mis le feu au festival Music to Rock the Nation devant un public déchaîné et demandeur ! 
+Merci pour l’accueil chaleureux et l’ambiance électrique !
+<br/>
+<br/>
+
+<h2> Raid CentraleSupelec (24/04/16)</h2>
+<p>
+Pendant une intense semaine, la Band'à Joe était là pour accompagner tous les jours les coureurs du Raid CentraleSupélec. Que ce soit aux départs, aux arrivées, en haut des puys Auvergnats, sur les lacs ou dans les forêts, les revigorants morceaux de notre fanfare ainsi que la vitalité de ses Joes étaient là pour donner du courage aux participants !
+Merci au Raid pour cette semaine magique!
+<br/>
+<br/>
+
+<h2> La Régate des IUT (15/04/16)</h2>
+<p>
+Les Joe's commencent vraiment à connaître la terre ferme, c'est pourquoi La Band'à Joe s'est lancée le nouveau défi de jouer sur un sol qui tangue!
+Et quoi de mieux pour cela que La Régate des IUT? Nous avons été accueilli sur un magnifique voilier le temps d'un week-end pour faire rayonner notre joyeux dynamisme par delà les Terres!
+<br/>
+<br/>
+
+
+<h2> La Briarde Vincelaise (10/04/16)</h2>
+<p>
+La Band'à Joe a été invitée chaleureusement pour la deuxième année consécutive à Voinsles pour animer avec joie et dynamisme la Briarde Vincelaise! Nous avons su insuffler du courage aux coureurs pour cette course joviale!
+<br/>
+<br/>
+
+<h2> Ferias de Arles (26/03/16)</h2>
+<p>
+Nous étions à Arles pendant le week-end de pâques pour mettre la folie à la ville pendant les Ferias! Nous avons joué, chanté et dansé pour un public toujours déchaîné à toute heure de la journée!  
+<br/>
+<br/>
+
+
+<h2> Rencontre CentraleSupélec (17/03/16)</h2>
+<p>
+En tant qu'association Centralienne, la Band'à Joe était là pour animer et rayonner du zgueg à la Rencontre CentraleSupelec! Nous avons pris grand plaisir à jouer avec nos compatriotes de l'Elephanfare, nos homologues de Supelec! 
+<br/>
+<br/>
+
+<h2> Opération Jonquille pour Curie (15/03/16)</h2>
+<p>
+La Band'à Joe a joué le 15, le 16, le 17 et le 19 mars pour l'opération "Jonquille pour Curie"! Chaque jour dans un lieu de Paris, nous avons communiqué notre bonne humeur pour animer l'événement!
+<br/>
+<br/>
+
+<h2> Tournage Pub Volvic (11/03/16)</h2>
+<p>
+La Band'à Joe a été sollicitée pour apparaître dans une publicité de Volvic! Ce tournage a été l'occasion pour nous de rencontrer Julien Lepers et sa bonne humeur, il a notamment loué le zgueg de la Band'à Joe!
+<br/>
+<br/>
+
+<h2> Semaine du Pistus (05/03/16)</h2>
+<p>
+Comme chaque année, la Band'à Joe était là pour animer la semaine du Pistus et réchauffer les centraliens en bas des pistes avec leurs morceaux plein d'entrain ! Que ce fût au bar de glace ou tout simplement devant les appartements, nous avons pris plaisir à transmettre notre bonne humeur!
+<br/>
+<br/>
+
+<h2> Plan ski à la Station d'Oz (28/02/16)</h2>
+<p>
+La Band'à Joe était à la Station d'Oz En Oisans pendant une semaine inoubliable pour enflammer les pistes de ski avec leur jaune attirail et leur bonne humeur ! Merci à la station d'Oz pour nous avoir accueilli!
+<br/>
+<br/>
+
+<h2> Match de Rugby Stade-Français/Grenoble (27/02/16)</h2>
+<p>
+Merci au Stade Français pour son invitation à venir mettre le feu au stade Jean Bouin avant et après le match de rugby avec Grenoble ! Nous avons de plus profité de très bonnes places pendant le match, ce qui nous a permis d'apprécier la rencontre!
+<br/>
+<br/>
+
+<h2> Prologue du Raid CentraleSupelec (26/02/16)</h2>
+<p>
+La Band'à Joe était là, comme à son habitude, pour accompagner les participants au Prologue tout au long de la course! Du trail de nuit à la matinée du départ et au checkpoint 2, notre bande de joyeux lurons aussi jaune que zgueg fut ravie de venir vous encourager ! 
+<br/>
+<br/>
+
+<h2> Soirée Archi de Versailles (26/02/16)</h2>
+<p>
+Comme à leur habitude, c'est vers la Band'à Joe que l'école d'Architecture de Versailles s'est tournée pour animer leur soirée! Entre technofanfare et autres joyeusetés, nous avons mis le feu à la piste de danse! Merci pour l'invitation!
+<br/>
+<br/>
+
+<h2> Emission "Touche pas à mon Sport" sur D8 (15/02/16)</h2>
+<p>
+La Band'à Joe a été invitée par D8 afin de jouer le soir devant l'hôtel dans lequel sommeillait l'équipe de Chelsea, la veille de leur rencontre avec le PSG! On ne saura jamais si cette blague retransmise à la télévision aura permis aux parisiens de l'emporter le lendemain...
+<br/>
+<br/>
+
+<h2> Carnaval de Fun Radio (09/02/16)</h2>
+<p>
+La Band'a Joe était avec l'équipe de Fun Radio dans les couloirs de RTL pour joyeusement fêter le carnaval. Nous sommes passés de studio en studio tout en jouant nos plus entraînants morceaux!
+<br/>
+<br/>
+
+<h2> Plan Ski à Orcières (03/01/16)</h2>
+<p>
+La Band'a Joe était à Orcières Merlette toute la semaine pour animer les pistes (dépourvues de neige) ainsi que pour fêter la nouvelle année 2k16 !!
+Merci à Orcières et la station d' Ancelle pour l'accueil !!
+<br/>
+<br/>
+
+<h2> Gala des Centraliens (30/11/15)</h2>
+<p>
+Le temps d'une soirée de prestige, la Band'a Joe a animé cette soirée riche en personnalités. La qualité musicale était à la hauteur de l'architecture du Palais de la Découverte, lieu de rendez-vous de ce Gala majestueux !
+<br/>
+<br/>
+
+<h2> Porte ouvertes COMIL (30/09/15)</h2>
+<p>
+Vous avez envie de dynamiser votre rencontre avec vos clients ? Faites comme COMIL et invitez la Band'a Joe pour ambiancer votre soirée !
+<br/>
+<br/>
+
+<h2> Braderie de Lille (4 & 5/09/15)</h2>
+<P>
+La fameuse braderie de Lille a réservé un week-end de folie à nos fanfarons. Merci à <a href="http://fanfare.ec-lille.fr/">Ze Big Bandhoulle</a> pour l'accueil chaleureux qu'ils nous ont réservé. En compagnie de cette super fanfare, un concert de grande qualité musicale a été offert à un public déchainé !
+<br/>
+<br/>
+
+<h2> Fiesta Peña (19 & 20/06/15)</h2>
+<p>
+Le rendez-vous annuel de la Band'a Joe. Une fête pas comme les autres où l'ambiance des ferias battu son plein !
+<br/>
+<br/>
+</p>
+
+<h2> Soirée Archi La Villette (29/05/15)</h2>
+<p>
+Merci à l'École d'Architecture de la Villette pour cette soirée qui fut riche en rencontres et en cordialité. Nous serons encore là pour l'Architeuf du 4 juillet prochain !
+<br/>
+<br/>
+
+<h2> Chinon en Fanfare (23/05/15)</h2>
+<p>
+Ah, Chinon, Chinon, Chinon... Ce concours est devenu une tradition de la Band'a Joe ! Déambuler dans les rues de cette magnifique ville aura été une journée fabuleuse pour l'ensemble des fanfarons !
+<br/>
+<br/>
+
+<h2> Music to Rock the Nation N°16 (8/05/15)</h2>
+<p>
+Nous avons participé à la 16ème édition du festival Music to Rock the Nation. Un festival de Dub bien roots, de la transe psyché, du groove affro, du Hip Hop où la Band'à Joe a pris son pied devant un public de foliiie (public qui en a d'ailleurs redemandé dans le métro) !
+<br/>
+<br/>
+
+<h2> RAID Centrale Paris (26-01/05/15)</h2>
+<p>
+Le RAID Centrale Paris 2k15 nous a invité à animer leur évènement sportif d'exception ! Une semaine assurée uniquement par les GPA (Gentils Première Année #VocabulaireDeL'EcoleDesArtsEtManufacturesDeChatenayMalabry) qui en sont ressortis soudés et particulièrement compétents musicalement !
+En bref, nous avons passé une semaine extraordinaire dans les Alpes-de-Hautes-Provences !
+<br/>
+<br/>
+
+<h2> La Briarde 2015 à Voinsles (14/04/15)</h2>
+<p>
+La Band'à Joe est cordialement invitée à animer une merveilleuse matinée sous le soleil printanier afin d'encourager des dizaines de coureurs à se surpasser dans une ambiance détendue et conviviale.
+<br/>
+<br/>
+
+<h2> Férias d'Arles 2015 (3/04/15)</h2>
+<p>
+La première de l'année ! Enfin on peut descendre dans le sud. Retrouver nos amis de l'an dernier, pour le plaisir des passants dans les ruelles d'Arles.
+<br/>
+<br/>
+
+<h2> Challenge Centrale Lyon (21/03/15)</h2>
+<p>
+La Band'à Joe part à Lyon pour encourager ses sportifs. Face aux écoles de toute la France, nous sommes là pour les faire gagner ! On y fait la rencontre de fanfares étudiantes issues de toute la France. Et passage cordiale chez nous amis de la <b><a herf:="http://www.fanfare-cacophonie.org/">Cacophonie</a></b>.
+<br/>
+<br/>
+
+<h2> Pistus 2015 (7-14/03/15)</h2>
+<p>
+La Band'à Joe part avec le <b>Pistus</b>, association de Centrale qui organise une semaine de ski pour les centraliens. Bref, une semaine de ski avec les centraliens.
+<br/>
+<br/>
+
+<h2> Rencontre Centrale-Supelec (5/03/15)</h2>
+<p>
+A l'approche de la fusion des deux établissements, la Band'à Joe et <a herf:="http://elephanfare.larez.fr/">l'Elephanfare</a> se rencontre sur le campus de Supelec. 
+<br/>
+<br/>
+
+<h2> Semaine de ski à Oz-en-Oisan (1-7/03/15)</h2>
+<p>
+Troisième et dernière semaine de ski pour l'année. Cette fois, c'est à l'Alpes d'Huez, avec l'office de trourisme d'<b>Oz-en-Oisan</b>. Toujours très bien accueillis dans la station comme dans les restaurants d'altitude, on y prend vite goût.
+<br/>
+<br/>
+<br/><h2> Prologue Raid Centrale Paris (27/02/15)</h2>
+<p>
+Petite escapade en Normandie pour le <b>Prologue</b> du <a herf:="http://www.raidecp.net/">Raid Centrale Paris</a>. Une sortie toujours mémorable avec des paysages qui changent de la région parisienne, et des endroits toujours plus originals pour jouer : dans la nuit, sur un viduc...
+<br/>
+<br/>
+
+<h2> Semaine de ski à Puy-Saint-Vincent (14-21/02/15)</h2>
+<p>
+Nouvelle semaine de ski. La Band'à Joe part à <b>Puy-Saint-Vincent</b>, toujours avec l'office de tourisme. La neige est là, et nous aussi !
+<br/>
+<br/>
+
+<h2> Semaine de Noël au ski à Orcière (28/12/14 - 03/01/15)</h2>
+<p>
+Première semaine de ski de l'année. C'est une formation de deuxièmes années qui part au ski sous contrat avec la station d'Orcière. Une semaine de ski bien cordiale, entre musique, ski, et jour de l'an !
+<br/>
+<br/>
+
+<h2> Soirée archi Versailles (19/12/14)</h2>
+<p>
+Fort de l'amitié entre les ingénieurs et les architects, on était invité à venir s'enjailler pour une soirée fanfare à Versailles. Au programme, concert de fanfares étudiantes, et baptême de la nouvelle promotion de fanfare archi Versaille ! 
+<br/>
+<br/>
+
+<h2> Nuit des troubadours (11/12/14)</h2>
+<p>
+Une des grosses soirée sur le Campus. La <a herf:="http://www.nuitdestroubadours.com/">Nuit des Troubadours</a> c'est un des plus gros set en terme de musiciens. Un rendez-vous entre toutes les générations pour jouer devant un public chaud bouillant. Avec un quarantaine de fanfarons, ça envoie du lourd !!!
+<br/>
+<br/>
+
+<h2> Fête des Lumières (6/12/14)</h2>
+<p>
+Invité par la <b><a herf:="http://www.fanfare-cacophonie.org/">Cacophonie</a></b>, la fanfare de l'Ecole CPE de Lyon, c'est un rendez-vous annuelle pour nous. Une des premières grosses sorties pour les petits nouveaux, et des retrouvailles avec la Caco pour les rodés.
+<br/>
+<br/>
+
+<h2> Band'haiku (19-25/10/14)</h2>
+<p>
+C'est nom donné à notre périple dans l'Est de l'Europe. Trip en voiture à <b>Munich</b>, <b>Prague</b>, et <b>karlsruhe</b>. Avec une formation bien fournies (une vingtaine de musicos), nous jouons un peu partout : manche, bar, parque... berf des vacances comme on les aime.
+<br/>
+<br/>
+
+<h2> Intercentrale 2014 (18/10/14)</h2>
+<p>
+La band'à Joe part à Lyon pour encourager ses sportifs. Entre battle de fanfare, et set pour les sportifs, c'est toujours un plaisir de voyager avec les centraliens, et rencontrer les autres fanfares centraliennes.
+<br/>
+<br/>
+
+<h2> Quadrabang 2k14 (02/10/14)</h2>
+<p>
+LA plus grosse soirée sur le campus de centrale. C'est le <b>Quadrabang</b> organisé par l'Association de Résidents (ADR) de l'école. Un public étudiant pour plus de folie !
+<br/>
+<br/>
+
+<h2> Semaine d'intégration et WEI (09/14)</h2>
+<p>
+Après deux mois de vacances musicales, la troupe se remet à jour pour découvrir ses futurs successeurs. Une grosse ambiance pendant une semaine, avec tous les vieux qui nous ont rejoints.
+<br/>
+<br/>
+
+<h2> L'été, les Ferias (été 2014)</h2>
+<p>
+Comme tous les ans, la fin de l'année rime avec été, et ses férias dans le sud. Au programme cette année : Vic, Fiesta Pena, Arles. Toujours des sorties mémorables qui nous évadent un peu de Paris.
+<br/>
+<br/>
+
+<h2> Centrale 7 et Semons le troub (23/05/14)</h2>
+<p>
+Cette année le <b>C7</b> (Tournoi de rugby à 7 international) et <b>Semons le Troub</b> (soirée organisée par la Nuit des Troubadours) se donnent la main pour une journée musicalo-sportive, sur le campus. Une animation pour les supporters et le public du tournoi sportif, avant une soirée de haute en couleur pour décompresser. Ouverte à tous, avec tous les sportifs, les staffeurs, et bien sûr les centraliens.
+<br/>
+<br/>
+
+
+<h2> Les soirées de Mai</h2>
+<p>
+Tout d'abord un gros festival <b>Music to Rock the Nation</b>, une soirée de qualité, avec un superbe accueil. Et une soirée fanfares organisée par les archis de Versailles.
+<br/>
+<br/>
+
+<h2> RAID Centrale Paris (27/04-2/05/14)</h2>
+<p>
+Nous partons en invités au <b>RAID Centrale Paris</b> organisé par notre école. Cette-fois, c'est la Suisse ! Et malgré le mauvais temps, nous avons quand même remonté le moral de concurrents.
+<br/>
+<br/>
+
+
+<h2> Nuit des Troubadours (12/12/13)</h2>
+<p>
+Une fois de plus la Band'à Joe est conviée à cette grande fête sur le campus. Une des grosses soirées de l'école, avec jonglerie, spectacles, et surtout concerts ...
+<br/>
+<br/>
+
+<h2> Fêtes des Lumières (7/12/13)</h2>
+<p>
+Telle une coutume, nous retournons à Lyon pour un festival haut en couleur en compagnie de la <b>Cacophonie</b>, notre fanfare hôte lyonnaise, toujours avec plaisir.
+<br/>
+<br/>
+
+<h2> Intercentrales à Marseille 2013 (19/10/13)</h2>
+<p>
+Un des plus gros événements sportifs avec les écoles centrales. La fanfare supporte les verts !
+<br/>
+<br/>
+
+
+<h2> WEI Kinés à Alençon (5-7/10/13)</h2>
+<p>
+On anime le WEI de nos amis les <b>kinés d'Alençon</b> rencontré au Raid Centrale paris 2013. Merci à eux pour l'accueil !
+<br/>
+<br/>
+
+
+<h2> Quadrabang 2013 (3/10/13)</h2>
+<p>
+La plus grosse soirée de l'année sur le campus de Centrale ! 4 salles, 4 ambiances, 2 fanfares... Que du bonheur.
+<br/>
+<br/>
+
+<h2> Quinze ans des Plaies Mobiles (21/9/13)</h2>
+<p>
+Les <b>Plaies Mobiles</b>(encore une fanfare parisienne) ont 15 ans. Quoi de mieux comme prétexte pour un week-end champêtre agrémenté d'un concours de fanfares de qualité ?
+<br/>
+
+Très bon anniversaire à eux.
+<br/>
+<br/>
+
+<h2> Fête de Montmagny (14/9/13)</h2>
+<p>
+Vous nous retrouverez sur la grande place de Montmagny, dans le cadre d'une journée d'activités bien sympathique organisée par la mairie !
+<br/>
+<br/>
+
+<h2>WEI ECP 2k13 (6-10/9/13)</h2>
+<p> Que serait un week-end d'intégration sans quelques cuivres ? Nous partons avec les futures recrues de la Band'a Joe pour 4 jours et pour une destination encore inconnue...
+<br/>
+<br/>[fin]

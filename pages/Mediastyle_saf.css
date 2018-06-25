@@ -1,0 +1,297 @@
+/*chargement des polices */
+@font-face {
+    font-family: 'sultan_cafe';
+    src: url('../polices/sultanCafe/SultanCafe.ttf') format('ttf'), 
+		url('../polices/sultanCafe/SultanCafe.otf') format('otf'),
+		url('../polices/sultanCafe/SultanCafe.eot') format('eot'),
+		url('../polices/sultanCafe/SultanCafe.woff') format('woff'),
+		url('../polices/sultanCafe/SultanCafe.woff2') format('woff2'),
+		url('../polices/sultanCafe/SultanCafe.svg') format('svg');
+}
+
+@font-face {
+    font-family: 'avenida';
+    src: url('../polices/avenida/Avenida.otf') format('otf'),
+		url('../polices/avenida/Avenida.ttf') format('ttf'),
+		url('../polices/avenida/Avenida.eot') format('eot'),
+		url('../polices/avenida/Avenida.woff') format('woff'),
+		url('../polices/avenida/Avenida.woff2') format('woff2'),
+		url('../polices/avenida/Avenida.svg') format('svg');
+}
+
+@font-face {
+    font-family: 'avenirLight';
+    src: url('../polices/avenirLight/AvenirLight.otf') format('otf'),
+		url('../polices/avenirLight/AvenirLight.ttf') format('ttf'),
+		url('../polices/avenirLight/AvenirLight.woff') format('woff'),
+		url('../polices/avenirLight/AvenirLight.woff2') format('woff2'),
+		url('../polices/avenirLight/AvenirLight.eot') format('eot'),
+		url('../polices/avenirLight/AvenirLight.svg') format('svg');
+}
+/*formatage texte */
+
+body
+{
+	text-align : center;
+	font-family : avenirLight;
+}
+
+nav a
+{
+	color : white;
+	font-family : avenida;
+	text-decoration : none;
+}
+
+
+/*mise en page*/
+
+body
+{
+	background-color : black;
+	color : white;
+}
+
+	/*les différentes sections */
+
+	#tout
+	{
+			display : -webkit-box;
+	display : -ms-flexbox;
+	display : flex;
+		-webkit-box-orient : vertical;
+		-webkit-box-direction : normal;
+		    -ms-flex-direction : column;
+		        flex-direction : column;
+		-webkit-box-align : center;
+		    -ms-flex-align : center;
+		        align-items : center;
+		-webkit-box-pack : justify;
+		    -ms-flex-pack : justify;
+		        justify-content : space-between;
+				max-width : 84em;
+	}
+	nav
+	{
+		 display : -webkit-box;
+			display : -ms-flexbox;
+			display : flex;
+				-webkit-box-orient : horizontal;
+				-webkit-box-direction : normal;
+						-ms-flex-direction : row;
+						flex-direction : row;
+						-webkit-box-pack : justify;
+						-ms-flex-pack : justify;
+						justify-content : space-between;
+		width : 100%;
+		align-items : center;
+		background-color : black;	
+		text-align : center;
+		max-height : 4em;
+	}
+	
+		#accueil
+		{
+			width : 100%;
+			font-family : sultan_cafe;
+			font-size : 2.5em;
+			display : -webkit-box;
+			display : -ms-flexbox;
+			display : flex;
+			-webkit-box-orient : horizontal;
+			-webkit-box-direction : normal;
+			    -ms-flex-direction : row;
+			        flex-direction : row;
+			-webkit-box-pack : center;
+			    -ms-flex-pack : center;
+			        justify-content : center;
+			-webkit-box-align : center;
+			    -ms-flex-align : center;
+			        align-items : center;
+			margin-left : 0.35em;
+			position : relative;
+			right : 7.5em;
+			
+		}	
+			
+		nav ul
+		{
+			font-family : avenida;
+			list-style-type : none;
+			display : -webkit-box;
+			display : -ms-flexbox;
+			display : flex;
+			-webkit-box-orient : horizontal;
+			-webkit-box-direction : normal;
+			    -ms-flex-direction : row;
+			        flex-direction : row;
+			width: 13%;
+			height : 50%;
+			text-align : center;
+			position : relative;
+			right : 25em;
+		}
+		
+		nav li
+		{
+			margin :auto;
+			font-family : avenida;
+			font-size : 2.2em;
+			padding-right : 35px;
+		}
+		
+		nav a:hover
+		{
+			color : #f2bf32;
+		}
+		
+		#page_active
+		{
+			color : #f2bf32;
+		}
+		
+	#corps
+	{
+		display : -webkit-box;
+display : -ms-flexbox;
+display : flex;
+		-webkit-box-orient : vertical;
+		-webkit-box-direction : normal;
+		    -ms-flex-direction : column;
+		        flex-direction : column;
+		-ms-flex-pack : distribute;
+		    justify-content : space-around;
+		-webkit-box-align : center;
+		    -ms-flex-align : center;
+		        align-items : center;
+	}
+	
+	#corps h1
+	{
+		font-weight : normal;
+		font-size : 2.5em;
+		font-family : avenida;
+	}
+	
+	.corpsTitre
+	{
+		border-top : 4px white;
+		border-bottom : 4px  white;
+		border-style : double none double none;
+		text-align : center;
+		width : 40%;
+		margin-bottom : 1em;
+		margin-top : 2em;
+	}
+	
+	#gallerie
+	{
+		display : -webkit-box;
+display : -ms-flexbox;
+display : flex;
+		-webkit-box-orient : horizontal;
+		-webkit-box-direction : reverse;
+		    -ms-flex-direction : row-reverse;
+		        flex-direction : row-reverse;
+		-ms-flex-wrap : wrap-reverse;
+		    flex-wrap : wrap-reverse;
+		margin-right : 11em;
+	}
+	
+	#gallerie a
+	{
+		width : 15em;
+		height : 10em;
+		padding : 0px;
+		margin : 0.5em;
+	}
+	
+	.mini
+	{
+		width :15em;
+		height :10em;
+	}
+	
+	
+	.video
+	{
+		font-family : avenida;
+		margin-bottom : 3em;
+		text-align :left;
+	}
+	
+	.video h2
+	{
+		font-weight : normal;
+	}
+	
+	footer
+	{
+		position : bottom;
+		display : -webkit-box;
+		display : -ms-flexbox;
+		display : flex;
+		-webkit-box-orient : horizontal;
+		-webkit-box-direction : normal;
+		    -ms-flex-direction : row;
+		        flex-direction : row;
+		-webkit-box-pack : justify;
+		    -ms-flex-pack : justify;
+		        justify-content : space-between;
+		font-family : avenirLight;
+		width : 100%;
+		background-color : black;
+		font-size : 1.5em;
+		max-height : 3em;
+		overflow : hidden;
+	}
+	
+		#texteFooter
+		{
+			display : -webkit-box;
+			display : -ms-flexbox;
+			display : flex;
+			-webkit-box-orient : horizontal;
+			-webkit-box-direction : normal;
+			    -ms-flex-direction : row;
+			        flex-direction : row;
+			-webkit-box-align : center;
+			    -ms-flex-align : center;
+			        align-items : center;
+			margin-left : 0.8em;
+			font-size : 0.8em;
+		}
+		
+		
+		footer ul
+		{
+			list-style-type : none;
+			display : -webkit-box;
+			display : -ms-flexbox;
+			display : flex;
+			-webkit-box-orient : horizontal;
+			-webkit-box-direction : normal;
+			    -ms-flex-direction : row;
+			        flex-direction : row;
+			-webkit-box-pack : justify;
+			    -ms-flex-pack : justify;
+			        justify-content : space-between;
+			-webkit-box-align : center;
+			    -ms-flex-align : center;
+			        align-items : center;
+			margin-right : 2em;
+			width : 5%;
+			position : relative;
+			right : 7em;
+		}
+		
+		footer li
+		{
+			width : 100%;
+		}
+		
+		#mentionLegale
+		{
+			font-size : 0.8em;
+		}
+		
