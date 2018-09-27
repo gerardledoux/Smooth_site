@@ -51,6 +51,9 @@
 					var corps = document.getElementById("corps") ;
 					var properties = window.getComputedStyle(corps, null) ;
 					var largeur = properties.width ;
+					var larg_nombre = Number(largeur.substring(0,largeur.length-2)) ;
+					var haut_nombre = larg_nombre/2.214 ;
+					var hauteur = haut_nombre.toString()+"px" ;
 					document.getElementById("corps").style.height = largeur ; 
 				}
 				resize ;
