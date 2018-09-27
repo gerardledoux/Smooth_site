@@ -42,13 +42,15 @@
 			
 			<div id="corps">
 				<header>     <!-- juste le nom a priori -->
-					<h1 id ="titre">Smooth Motion</h1>
+					<h1>Smooth Motion</h1>
 				</header>
 			</div>
 			
 			<script type="text/javascript">
-				var largeur = window.innerwidth ;
-				document.getElementById("corps").style.height = largeur.toString() + "px" ; 
+				var corps = document.getElementById("corps") ;
+				var properties = window.getComputedStyle(corps, null) ;
+				var largeur = properties.width ;
+				document.getElementById("corps").style.height = largeur ; 
 			</script>
 
 			
