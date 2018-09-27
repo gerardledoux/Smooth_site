@@ -69,6 +69,21 @@
 				</section>
 			</div>	
 			
+			<script type="text/javascript">
+				function resize () {
+					var corps = document.getElementById("corps") ;
+					var properties = window.getComputedStyle(corps, null) ;
+					var largeur = properties.width ;
+					var larg_nombre = Number(largeur.substring(0,largeur.length-2)) ;
+					var haut_nombre = Math.round(larg_nombre/2.274) ;
+					var hauteur = haut_nombre.toString()+"px" ;
+					document.getElementById("corps").style.height = hauteur ; 
+				}
+				resize () ;
+				window.onresize = resize ;
+				
+			</script>
+			
 			<footer>  <!-- pied de page -->
 				<div id="texteFooter">
 				<img id ="logo_bas" src="../images/logo.png" alt="logo"/>
