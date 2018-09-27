@@ -153,6 +153,7 @@ body
 		color : black;
 		width : 80%;
 		min-height : 500px;
+		padding-bottom : 1em;
 	}
 	
 	#corps a
