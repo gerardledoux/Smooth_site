@@ -180,7 +180,11 @@ display : flex;
 		font-size : 1.2em;
 		line-height : 1.5;
 	}
-	
+
+	.gros h1
+	{
+		text-shadow: #000000 1px 1px, #000000 -1px 1px, #000000 -1px -1px, #000000 1px -1px, #000000 2px 2px, #000000 -2px 2px, #000000 -2px -2px, #000000 2px -2px;
+	}
 	
 	#mail
 	{
