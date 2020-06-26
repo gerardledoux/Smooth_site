@@ -148,7 +148,7 @@ body
 		
 	 #corps
 	{
-		background : url('../images/acc_background.jpg') center no-repeat;
+		background : url('../images/new_acc_background.jpg') center no-repeat;
 		background-size : 100% 100%;
 		width : 100%;
 		height : 100%;
@@ -161,7 +161,7 @@ body
 	header 
 	{
 		position : relative;
-		top : -1em;
+		top : -1.2em;
 		
 	}
 	
